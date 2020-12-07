@@ -23,7 +23,7 @@
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manas-P&layout=default&bg_color=EEF4FF&hide_border=true&card_width=450) -->
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Manas-P&count_private=true&show_icons=true&bg_color=ffffff&hide_border=true&line_height=35&card_width=300" alt="GitHub Status">
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Manas-P&count_private=true&show_icons=true&bg_color=ffffff&hide_border=true&line_height=35&card_width=200" alt="GitHub Status"> -->
 
 <!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=Manas-P&count_private=true&show_icons=true&bg_color=EEF4FF&hide_border=true&line_height=35) -->
 </p>
