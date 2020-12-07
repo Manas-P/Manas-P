@@ -33,14 +33,14 @@
 <h1 align="center"><b>Connect Me Via</b></h1>
 
 
-<p align="center">
+<!-- <p align="center">
 	<a href="https://github.com/Manas-P"><img src="./images/github.svg" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/manas-p-a1b977175/"><img src="./images/linkedin.svg" alt="LinkedIn"/></a>
     <a href="mailto: manas4518pachakkil@gmail.com"><img src="./images/gmail.svg" alt="Gmail"/></a>
 	<a href="https://www.facebook.com/people/Manas-E-DM/100006618678078"><img src="./images/facebook.svg" alt="Facebook"/></a>
 	<a href="https://www.instagram.com/manaz____/"><img src="./images/instagram.svg" alt="Instagram"/></a>
 	<a href="https://www.youtube.com/watch?v=RYSiexMk7ks&ab_channel=NeonEyez"><img src="./images/youtube.svg" alt="Youtube"/></a>
-</p>
+</p> -->
 
 <br><br><br><br>
 
