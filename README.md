@@ -4,19 +4,19 @@
 
 <!-- <a href="https://manas-p.github.io/About_Me/"><img src="./images/upper.svg"></a> -->
 
-<br><br>
+<br>
 
 <h2 align="center"><a href="https://skynox.tech/"><b>🎨UX Designer</b></a> &nbsp; || &nbsp; <a href="https://github.com/Manas-P"><b>💻Programmer</b></a> &nbsp; || &nbsp; <a><b>🎮Gamer</b></a> &nbsp; || &nbsp; <a href="https://www.youtube.com/watch?v=RYSiexMk7ks&ab_channel=NeonEyez""><b>🎧Music Producer</b></a></h2>
 
-<br><br><br><br>
+<br><br><br>
 
 <h1 align="center"><b>Tools and Languages Known</b></h1>
 
-<br><br>
+<br>
 
 ![Languages and Tools Known](./images/tools.svg)
 
-<br><br><br><br>
+<br><br><br>
 
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manas-P&layout=default&bg_color=ffffff&hide_border=true&card_width=300" alt="Top Language">
@@ -28,10 +28,9 @@
 <!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=Manas-P&count_private=true&show_icons=true&bg_color=EEF4FF&hide_border=true&line_height=35) -->
 </p>
 
-<br><br><br><br>
+<br><br><br>
 
 <h1 align="center"><b>Connect Me Via</b></h1>
-
 
 <p align="center">
 	<a href="https://github.com/Manas-P"><img src="./images/github.svg" alt="GitHub"/></a>
@@ -42,6 +41,6 @@
 	<a href="https://www.youtube.com/watch?v=RYSiexMk7ks&ab_channel=NeonEyez"><img src="./images/youtube.svg" alt="Youtube"/></a>
 </p>
 
-<br><br><br><br>
+<br><br><br>
 
 [![Bottom Section](./images/bottom.svg)](https://manas-p.github.io/About_Me/)
