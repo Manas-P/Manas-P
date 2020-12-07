@@ -10,7 +10,7 @@
 
 <br><br><br>
 
-<h1 align="center"><b>Tools and Languages Known</b></h1>
+<h2 align="center"><b>Tools and Languages Known</b></h2>
 
 <br>
 
@@ -30,7 +30,7 @@
 
 <br><br><br>
 
-<h1 align="center"><b>Connect Me Via</b></h1>
+<h2 align="center"><b>Connect Me Via</b></h2>
 
 <p align="center">
 	<a href="https://github.com/Manas-P"><img src="./images/github.svg" alt="GitHub"/></a>
@@ -41,6 +41,6 @@
 	<a href="https://www.youtube.com/watch?v=RYSiexMk7ks&ab_channel=NeonEyez"><img src="./images/youtube.svg" alt="Youtube"/></a>
 </p>
 
-<br><br><br>
+<br>
 
 [![Bottom Section](./images/bottom.svg)](https://manas-p.github.io/About_Me/)
