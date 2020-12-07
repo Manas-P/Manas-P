@@ -32,7 +32,6 @@
 
 <h1 align="center"><b>Connect Me Via</b></h1>
 
-<br><br>
 
 <p align="center">
 	<a href="https://github.com/Manas-P"><img src="./images/github.svg" alt="GitHub"/></a>
