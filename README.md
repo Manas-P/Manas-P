@@ -19,11 +19,15 @@
 
 <br><br><br><br><br><br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manas-P&layout=default&bg_color=EEF4FF&hide_border=true&card_width=450)
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manas-P&layout=default&bg_color=EEF4FF&hide_border=true&card_width=450" alt="Top Language">
+
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manas-P&layout=default&bg_color=EEF4FF&hide_border=true&card_width=450) -->
 
 <br><br><br><br>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Manas-P&count_private=true&show_icons=true&bg_color=EEF4FF&hide_border=true&line_height=35)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Manas-P&count_private=true&show_icons=true&bg_color=EEF4FF&hide_border=true&line_height=35" alt="GitHub Status">
+
+<!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=Manas-P&count_private=true&show_icons=true&bg_color=EEF4FF&hide_border=true&line_height=35) -->
 
 <br><br><br><br>
 
