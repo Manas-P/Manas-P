@@ -4,12 +4,11 @@
 
 <!-- <a href="https://manas-p.github.io/About_Me/"><img src="./images/upper.svg"></a> -->
 
-<br><br><br>
+<br><br>
 
-<h2 align="center" style="font-size:30px;
-    color:black;"><a href="https://skynox.tech/"><b>🎨UX Designer</b></a> &nbsp; || &nbsp; <a href="https://github.com/Manas-P"><b>💻Programmer</b></a> &nbsp; || &nbsp; <a><b>🎮Gamer</b></a> &nbsp; || &nbsp; <a href="https://www.youtube.com/watch?v=RYSiexMk7ks&ab_channel=NeonEyez""><b>🎧Music Producer</b></a></h2>
+<h2 align="center"><a href="https://skynox.tech/"><b>🎨UX Designer</b></a> &nbsp; || &nbsp; <a href="https://github.com/Manas-P"><b>💻Programmer</b></a> &nbsp; || &nbsp; <a><b>🎮Gamer</b></a> &nbsp; || &nbsp; <a href="https://www.youtube.com/watch?v=RYSiexMk7ks&ab_channel=NeonEyez""><b>🎧Music Producer</b></a></h2>
 
-<br><br><br><br><br><br>
+<br><br><br><br>
 
 <h1 align="center"><b>Tools and Languages Known</b></h1>
 
@@ -17,7 +16,7 @@
 
 ![Languages and Tools Known](./images/tools.svg)
 
-<br><br><br><br><br><br>
+<br><br><br><br>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manas-P&layout=default&bg_color=ffffff&hide_border=true&card_width=450" alt="Top Language"></p>
 
