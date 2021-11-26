@@ -6,7 +6,7 @@
 
 <br>
 
-<h2 align="center"><a href="https://skynox.tech/"><b>🎨UX Designer</b></a> &nbsp; || &nbsp; <a href="https://github.com/Manas-P"><b>💻Programmer</b></a> &nbsp; || &nbsp; <a><b>🎮Gamer</b></a> &nbsp; || &nbsp; <a href="https://www.youtube.com/watch?v=RYSiexMk7ks&ab_channel=NeonEyez""><b>🎧Music Producer</b></a></h2>
+<h2 align="center"><a href="https://skynox.tech/"><b>🎨UX Designer</b></a> &nbsp; || &nbsp; <a href="https://github.com/Manas-P"><b>💻Programmer</b></a> &nbsp; || &nbsp; <a href="https://youtu.be/4gxHnNQ9mIE"><b>🎮Gamer</b></a> &nbsp; || &nbsp; <a href="https://www.youtube.com/watch?v=RYSiexMk7ks&ab_channel=NeonEyez""><b>🎧Music Producer</b></a></h2>
 
 <br><br><br>
 
